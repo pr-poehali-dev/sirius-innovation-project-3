@@ -43,12 +43,12 @@ export default function Hero() {
             Telegram @tuviha
           </a>
           <a
-            href="https://www.tiktok.com/@tuviha"
+            href="https://www.tiktok.com/@tuvihavich"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-green-500 text-green-400 px-6 py-3 rounded-full hover:bg-green-500 hover:text-black transition-colors duration-300 uppercase text-sm tracking-wide"
           >
-            TikTok @tuviha
+            TikTok @tuvihavich
           </a>
         </div>
       </div>

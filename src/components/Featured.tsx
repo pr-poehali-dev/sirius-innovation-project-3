@@ -17,9 +17,9 @@ const socials = [
   },
   {
     name: "TikTok",
-    handle: "gavaninamefe",
+    handle: "@tuvihavich",
     desc: "Видео и креативы — подписывайся",
-    href: "https://www.tiktok.com/@gavaninamefe",
+    href: "https://www.tiktok.com/@tuvihavich",
     icon: "Music2",
   },
 ];
