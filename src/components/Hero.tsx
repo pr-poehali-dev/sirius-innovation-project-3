@@ -35,12 +35,12 @@ export default function Hero() {
         </p>
         <div className="mt-10 flex flex-wrap gap-4 justify-center">
           <a
-            href="https://t.me/octovix"
+            href="https://t.me/tuviha"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-black font-semibold px-6 py-3 rounded-full hover:bg-green-400 transition-colors duration-300 uppercase text-sm tracking-wide"
           >
-            Telegram @octovix
+            Telegram @tuviha
           </a>
           <a
             href="https://www.tiktok.com/@gavaninamefe"
