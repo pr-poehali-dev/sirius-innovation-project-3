@@ -45,7 +45,7 @@ export default function Footer() {
               <h1 className="text-[18vw] sm:text-[16vw] lg:text-[14vw] leading-[0.8] mt-4 sm:mt-6 lg:mt-10 text-green-400 font-bold tracking-tight">
                 tuviha
               </h1>
-              <p className="text-white text-sm sm:text-base">{new Date().getFullYear()} tuviha</p>
+              <p className="text-white text-sm sm:text-base">Это официальная страничка тувыхи</p>
             </div>
           </div>
         </div>
