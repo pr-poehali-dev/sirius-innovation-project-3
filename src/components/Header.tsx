@@ -9,7 +9,7 @@ export default function Header({ className }: HeaderProps) {
         <div className="text-green-400 text-lg font-bold uppercase tracking-widest">tuviha</div>
         <nav className="flex gap-8">
           <a
-            href="https://t.me/octovix"
+            href="https://t.me/tuviha"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-green-400 transition-colors duration-300 uppercase text-sm"

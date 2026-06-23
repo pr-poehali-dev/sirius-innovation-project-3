@@ -13,20 +13,20 @@ export default function Footer() {
               <div className="flex flex-col gap-1 sm:gap-2">
                 <h3 className="mb-1 sm:mb-2 uppercase text-green-400 text-xs sm:text-sm">Telegram</h3>
                 <a
-                  href="https://t.me/octovix"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-white hover:text-green-400 transition-colors duration-300 text-sm sm:text-base flex items-center gap-2"
-                >
-                  <Icon name="Send" size={16} /> @octovix
-                </a>
-                <a
                   href="https://t.me/tuviha"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white hover:text-green-400 transition-colors duration-300 text-sm sm:text-base flex items-center gap-2"
                 >
-                  <Icon name="Megaphone" size={16} /> @tuviha
+                  <Icon name="Send" size={16} /> @tuviha
+                </a>
+                <a
+                  href="https://t.me/tuvihavich"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-white hover:text-green-400 transition-colors duration-300 text-sm sm:text-base flex items-center gap-2"
+                >
+                  <Icon name="Megaphone" size={16} /> @tuvihavich
                 </a>
               </div>
               <div className="flex flex-col gap-1 sm:gap-2">

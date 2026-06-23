@@ -3,16 +3,16 @@ import Icon from "@/components/ui/icon";
 const socials = [
   {
     name: "Telegram",
-    handle: "@octovix",
+    handle: "@tuviha",
     desc: "Личный профиль — пиши напрямую",
-    href: "https://t.me/octovix",
+    href: "https://t.me/tuviha",
     icon: "Send",
   },
   {
     name: "Telegram-канал",
-    handle: "@tuviha",
+    handle: "@tuvihavich",
     desc: "Мой канал с новостями и контентом",
-    href: "https://t.me/tuviha",
+    href: "https://t.me/tuvihavich",
     icon: "Megaphone",
   },
   {
