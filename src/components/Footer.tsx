@@ -32,12 +32,12 @@ export default function Footer() {
               <div className="flex flex-col gap-1 sm:gap-2">
                 <h3 className="mb-1 sm:mb-2 uppercase text-green-400 text-xs sm:text-sm">TikTok</h3>
                 <a
-                  href="https://www.tiktok.com/@gavaninamefe"
+                  href="https://www.tiktok.com/@tuvihavich"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white hover:text-green-400 transition-colors duration-300 text-sm sm:text-base flex items-center gap-2"
                 >
-                  <Icon name="Music2" size={16} /> gavaninamefe
+                  <Icon name="Music2" size={16} /> @tuvihavich
                 </a>
               </div>
             </div>
