@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/109b962e-66a4-4ed2-ab0f-092c6b6c3ee0/bucket/0de81b9a-fa2d-40a6-8414-e72a4ecec403.jpg"
+          alt="Hero background"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-green-950/60 to-black" />
